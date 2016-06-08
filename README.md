@@ -1,3 +1,7 @@
+# Smart Mirror - team3n
+- 추가된 기능은 차츰 차츰 업데이트 될 예정입니다. 
+- cordova를 이용한 Android 버전도 별도의 프로젝트로 진행 중입니다. (2016. 6. 10, 개발 중)
+
 # Smart Mirror
 [![Join the chat at https://gitter.im/evancohen/smart-mirror](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/evancohen/smart-mirror?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Stories in Progress](https://img.shields.io/waffle/label/evancohen/smart-mirror/in%20progress.svg)] (https://waffle.io/evancohen/smart-mirror) [![Suggestions](https://img.shields.io/waffle/label/evancohen/smart-mirror/suggestion.svg?label=suggestions)]  (https://github.com/evancohen/smart-mirror/issues?q=is%3Aissue+is%3Aopen+label%3Asuggestion) [![devDependency Status](https://david-dm.org/evancohen/smart-mirror/dev-status.svg)](https://david-dm.org/evancohen/smart-mirror#info=devDependencies)
 
